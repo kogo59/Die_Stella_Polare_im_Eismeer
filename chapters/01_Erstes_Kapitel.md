@@ -52,7 +52,7 @@ nördlichsten erreichten Punkte 82° 45´ nördl. Br., 19° 25´ östl. L.) betr
 Kilometer.
 
 Im Jahre 1875 rüstete die englische Admiralität zum dritten Male eine Expedition
-zum Zwecke der Erreichung des Pols ans. Die vorhergehenden Reisen hatten
+zum Zwecke der Erreichung des Pols aus. Die vorhergehenden Reisen hatten
 gezeigt, daß es sowohl zu Schiff, wie mit Schlitten schwierig sei
 vorwärtszukommen. Wenn man in dem Becken zwischen Grönland und Amerika
 vordringen würde, hoffte man mit den Schiffen auf einer Küstenfahrt den 83. oder
@@ -268,7 +268,7 @@ Hilfsabteilungen zu entsenden, welche die nötigen Lebensmittel für eine weiter
 vorgehende kleine Anzahl von Menschen mitnehmen sollten.
 
 Daraus ergab sich die Notwendigkeit, die Expedition in drei Gruppen zu teilen,
-deren jede ans mehreren Leuten bestand. Die erste Gruppe sollte von Kap Fligely
+deren jede aus mehreren Leuten bestand. Die erste Gruppe sollte von Kap Fligely
 bis zum 85. Breitengrad vordringen und Lebensmittel für den Unterhalt der ganzen
 Expedition während dieser ersten Periode, sowie für ihre eigene Nahrung während
 der Rückkehr  auf das Schiff mitnehmen; eine zweite Gruppe sollte bis zum 88.

@@ -70,22 +70,22 @@ November 1902
 * [Kapitän J. B. Lockwood.](ch003.xhtml#b006)
 * [Professor Dr. Fridtjof Nansen.](ch003.xhtml#b007)
 * [Nansen und Johansen auf dem Eismeer 1895.](ch003.xhtml#b009)
-* Die Stella Polare in Laurvik
-* Die Stella Polare (Separatbild)
-* Die Stella Polare (Längsschnitt und Decksplan)  (Separatbild)
-* Die Offiziere der Stella Polare (Seperatbild)
-* Die Mannschaft der Stella Polare
-* Im Hafen von Christiania
-* In Tromsö
-* Begegnung mit einem Dampfer im Weißen Meere
-* In Solombala
-* Im Hundezwinger zu Archangel
-* Trontheim
-* Sibirische Hunde
-* Die Ställe an Bord
-* Unsere Zugtiere
-* Die Ställe an Bord
-* Der Abschiedsgruß
+* [Die Stella Polare in Laurvik.](ch004.xhtml#b015)
+* [Die Stella Polare.](ch004.xhtml#b016) (Separatbild)
+* [Die Stella Polare (Längsschnitt und Decksplan).](ch004.xhtml#b018a) (Separatbild)
+* [Die Offiziere der Stella Polare.](ch004.xhtml#b020) (Seperatbild)
+* [Die Mannschaft der Stella Polare.](ch004.xhtml#b021)
+* [Im Hafen von Christiania.](ch004.xhtml#b027)
+* [In Tromsö.](ch004.xhtml#b028a)
+* [Begegnung mit einem Dampfer im Weißen Meere.](ch004.xhtml#b028b)
+* [In Solombala.](ch004.xhtml#b029)
+* [Im Hundezwinger zu Archangel.](ch004.xhtml#b031)
+* [Trontheim.](ch004.xhtml#b032)
+* [Sibirische Hunde.](ch004.xhtml#b033)
+* [Die Ställe an Bord.](ch004.xhtml#b034)
+* [Unsere Zugtiere.](ch004.xhtml#b035)
+* [Die Ställe an Bord.](ch004.xhtml#b036)
+* [Der Abschiedsgruß.](ch004.xhtml#b038)
 * Begegnung mit dem ersten Eise. (Ansicht vom Bug aus.)
 * Begegnung mit dem ersten Eise. (Aussicht vom Heck aus.)
 * Kap Flora und Kap Gertrud auf der Northbrookinsel, von Süden
