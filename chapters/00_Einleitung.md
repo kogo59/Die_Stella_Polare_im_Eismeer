@@ -86,13 +86,58 @@ November 1902
 * [Unsere Zugtiere.](ch004.xhtml#b035)
 * [Die Ställe an Bord.](ch004.xhtml#b036)
 * [Der Abschiedsgruß.](ch004.xhtml#b038)
-* Begegnung mit dem ersten Eise. (Ansicht vom Bug aus.)
-* Begegnung mit dem ersten Eise. (Aussicht vom Heck aus.)
-* Kap Flora und Kap Gertrud auf der Northbrookinsel, von Süden
-* Die Hütten der Jackson Expedition
-* Im Nightingalesund. Bellinsel, Mabelinsel, Bruceinsel
-* Die erste Jagdbeute
-* Kap Forbes, Kap Stephens und Kap Grant auf Alexandraland (Separatbild)
+* [Begegnung mit dem ersten Eise. (Ansicht vom Bug aus.)](ch005.xhtml#b043a)
+* [Begegnung mit dem ersten Eise. (Aussicht vom Heck aus.)](ch005.xhtml#b043b)
+* [Kap Flora und Kap Gertrud auf der Northbrookinsel, von Süden.](ch005.xhtml#b045)
+* [Die Hütten der Jackson Expedition.](ch005.xhtml#b047)
+* [Im Nightingalesund. Bellinsel, Mabelinsel, Bruceinsel.](ch005.xhtml#b049)
+* [Die erste Jagdbeute.](ch005.xhtml#b050)
+* [Kap Forbes, Kap Stephens und Kap Grant auf Alexandraland.](ch005.xhtml#b052) (Separatbild)
+* [Bateskanal. In der Ferne Kap Flora.](ch005.xhtml#b053)
+* Eis im Norden der Bruceinsel
+* Die Stella Polare in einer Pressung (von der Seite gesehen)
+* Die Stella Polare in einer Pressung (vom Heck gesehen)
+* Die Hunde auf dem Eise
+* Rückkehr unserer Gefährten an Bord
+* Der erste Eisbär
+* Dramatis personae
+* Erste Eispressung in Britischen Kanal (Separatbild)
+* Durchbruch durch das Eis
+* Vor der Maria-Elisabeth-Insel
+* Kap Fligely von Nordwesten, aus der Ferne gesehen
+* Kap Fligely von Norden, dicht unter der Küste
+* Kap Germania von Nordosten
+* Das Säulenkap von Südosten
+* Eisfeld in der Teplitzbai mit dem von der Stella Polare gebrochenen Kanale
+* Auschiffung des Materials in der Teplitzbai (Separatbild)
+* In der Teplitzbai
+* Renntiergeweih, beim Säulenkap gefunden
+* Ein Eisbär
+* Rückkehr von der Jagd (Separatbild)
+* Das Ende der Jagd
+* Hundeställe auf dem Eis
+* Auf dem Weg in den Stall
+* Probefahrt
+* Exkursion auf Kronprinz-Rudolf-Land
+* Typische Eiswand der Küste von Kronprinz-Rudolf-Land
+* Ausschiffen der Ladung während der Pressung
+* Eines der zwei Lagerzelte, die zum Bau des Inneren der Hütte dienten
+* Transport der Hundeställe auf den Strand
+* Unsre Winterhütte (Separatbild)
+* Bau der Hütte
+* Eingang zur Hütte
+* Elfenbeinmöwen
+* Die Hütte im Herbst (Separatbild)
+* Ausschiffung der Kohle
+* Ausbesserung des Lecks
+* Das verlassene Schiff
+* Das Innere des Zeltes
+* Hütte und Schiff von Westen (Separatbild)
+* Die Hundeställe im Sommer
+* Die Hundeställe nach dem Schneesturm
+* Das Instrumentengestell im Sommer
+* Das Instrumentengestell durch Leinwand gegen Treibschnee geschützt
+* Die ersten Schneefälle
 
 
 

@@ -1,4 +1,4 @@
-# Zweites Kapitel.<br />**Ausrüstung und Abfahrt der Expedition.** {#erstes .unnumbered}
+# Zweites Kapitel.<br />**Ausrüstung und Abfahrt der Expedition.** {#zweites .unnumbered}
 
 ::: justified
 
@@ -23,10 +23,11 @@ Der „Jason“, ein für die Robbenjagd bestimmter Walfischfänger, war wegen s
 festen Bauart und seiner kräftigen Maschine das beste Schiff, das im Januar 1899
 zum Verkauf stand. Er war 1881 in Sandefjord gebaut und konnte 570 Tonnen Ladung
 an Bord nehmen. Seine Größenverhältnisse waren: Länge des Decks 40 Meter, Breite
-9,<small>25</small> Meter, Tiefgang 5—5,<small>50</small> Meter. Die Maschine von nominell 60 Pferdestärken
-konnte ihm eine Schnelligkeit von sechs bis sieben Seemeilen verleihen. Das
-Schiff hatte einen neuen Kessel, eine Schraube und ein Reservesteuerruder
-erhalten; weder für die Schraube noch für das Steuer war ein Tunnel vorhanden.
+9,<small>25</small> Meter, Tiefgang 5—5,<small>50</small> Meter. Die Maschine
+von nominell 60 Pferdestärken konnte ihm eine Schnelligkeit von sechs bis sieben
+Seemeilen verleihen. Das Schiff hatte einen neuen Kessel, eine Schraube und ein
+Reservesteuerruder erhalten; weder für die Schraube noch für das Steuer war ein
+Tunnel vorhanden.
 
 Der „Jason“ stand eben im Begriff, unter dem Kommando des Kapitäns Evensen,
 eines der erfahrensten und mutigsten Führer von Walfischfängern, auf die
@@ -63,7 +64,7 @@ erstreckte und die Kabinen für die Offiziere, die Eß- und Arbeitszimmer, die
 Küche, das Instrumentenkabinett und die Lenzpumpen enthielt. Zu den einzelnen
 Räumen führten Doppeltüren mit hohen Rahmen. Die Kabinen hatten keine Fenster,
 sondern erhielten das Licht nur durch die Türen und durch drei Luken. Die
-Pumpeinrichtnugen bestanden außer den obenerwähnten Punpen aus dem Windmotor,
+Pumpeinrichtungen bestanden außer den obenerwähnten Punpen aus dem Windmotor,
 der seinen Platz auf dem Deck hatte, aus der Dampfspeisepumpe, und wenn die
 Maschine im Gange war, aus der Circulationspumpe des im Kielraume stehenden
 Kondensators.
@@ -295,10 +296,10 @@ Beobachtungen ein Magnetometer von Schneider angeschafft. Besorgt wurden ferner
 Senkbleie, Strömungsmesser, Thermometer, um die Temperatur und die Dichtigkeit
 des Wassers in verschiedenen Tiefen und die Bodentemperatur zu bestimmen, sowie
 ein Theodolit und vier Schiffschronometer. Sechs Taschenchronometer von
-Lougines, Sextanten aus Aluminium und Spiegelhorizonte für die Schlittenreise
+Longines, Sextanten aus Aluminium und Spiegelhorizonte für die Schlittenreise
 vervollständigten die Instrumentensammlung. Ein beträchtlicher Teil davon war
 von dem Hydrographischen Institute der Königlichen Marine geliefert, und ich bin
-der Regierung, namentlich Admiral Palumbo, dem damnaligen Marineminister, für
+der Regierung, namentlich Admiral Palumbo, dem damaligen Marineminister, für
 die Bereitwilligkeit, sie mir für die Expedition zu überlassen, äußerst dankbar.
 Andere Instrumente wurden aus eigenen Mitteln erworben. Dem Korvettenkapitän
 Ernesto Filippoue und den Professoren Cesare Aimonetti, Nicodemo Jadanza,
@@ -349,7 +350,8 @@ verschiedenen Kodaks (einem Bulleye Cartridge-Kodak und einem Folding Kodak Nr.
 5), nebst den zur Entwicklung der Negative erforderlichen Chemikalien.
 
 <br/>Die Gesamtkosten der Expedition waren folgende:
-                                                              Mark
+
+&nbsp;                                                          Mark     
 ---------------------------------------------------- -------------
 Jason, Kauf und Reparaturen                                240 000
 Personal                                                   128 000
@@ -361,7 +363,9 @@ Wissenschaftliche Instrumente, Bücher, Waffen               63 200
 Luftballons und Zubehör                                     41 600
 Arzneien und Chemikalien zu photographischen Zwecken        11 200
 Verschiedenes, Transport, Kohlen                            28 800
-Mark                                                       **737 600**
+Mark                                                   **737 600**
+---------------------------------------------------- -------------
+
 
 Alle diese Vorbereitungen hatten die Zeit von Ende Januar bis Anfang Mai in
 Anspruch genommen. Am 7. Mai 1899 verließen die Teilnehmer an der Expedition
