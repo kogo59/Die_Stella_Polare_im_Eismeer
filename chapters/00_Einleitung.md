@@ -94,17 +94,17 @@ November 1902
 * [Die erste Jagdbeute.](ch005.xhtml#b050)
 * [Kap Forbes, Kap Stephens und Kap Grant auf Alexandraland.](ch005.xhtml#b052) (Separatbild)
 * [Bateskanal. In der Ferne Kap Flora.](ch005.xhtml#b053)
-* Eis im Norden der Bruceinsel
-* Die Stella Polare in einer Pressung (von der Seite gesehen)
-* Die Stella Polare in einer Pressung (vom Heck gesehen)
-* Die Hunde auf dem Eise
-* Rückkehr unserer Gefährten an Bord
-* Der erste Eisbär
-* Dramatis personae
-* Erste Eispressung in Britischen Kanal (Separatbild)
-* Durchbruch durch das Eis
-* Vor der Maria-Elisabeth-Insel
-* Kap Fligely von Nordwesten, aus der Ferne gesehen
+* [Eis im Norden der Bruceinsel.](ch006.xhtml#b057)
+* [Die Stella Polare in einer Pressung (von der Seite gesehen).](ch006.xhtml#b058)
+* [Die Stella Polare in einer Pressung (vom Heck gesehen).](ch006.xhtml#b059)
+* [Die Hunde auf dem Eise.](ch006.xhtml#b060)
+* [Rückkehr unserer Gefährten an Bord.](ch006.xhtml#b061)
+* [Der erste Eisbär.](ch006.xhtml#b062)
+* [Dramatis personae.](ch006.xhtml#b064)
+* [Erste Eispressung in Britischen Kanal.](ch006.xhtml#b064a) (Separatbild)
+* [Durchbruch durch das Eis.](ch006.xhtml#b065)
+* [Vor der Maria-Elisabeth-Insel.](ch006.xhtml#b069)
+* [Kap Fligely von Nordwesten, aus der Ferne gesehen.](ch006.xhtml#b071)
 * Kap Fligely von Norden, dicht unter der Küste
 * Kap Germania von Nordosten
 * Das Säulenkap von Südosten
