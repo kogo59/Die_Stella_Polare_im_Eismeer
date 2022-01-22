@@ -105,21 +105,21 @@ November 1902
 * [Durchbruch durch das Eis.](ch006.xhtml#b065)
 * [Vor der Maria-Elisabeth-Insel.](ch006.xhtml#b069)
 * [Kap Fligely von Nordwesten, aus der Ferne gesehen.](ch006.xhtml#b071)
-* Kap Fligely von Norden, dicht unter der Küste
-* Kap Germania von Nordosten
-* Das Säulenkap von Südosten
-* Eisfeld in der Teplitzbai mit dem von der Stella Polare gebrochenen Kanale
-* Auschiffung des Materials in der Teplitzbai (Separatbild)
-* In der Teplitzbai
-* Renntiergeweih, beim Säulenkap gefunden
-* Ein Eisbär
-* Rückkehr von der Jagd (Separatbild)
-* Das Ende der Jagd
-* Hundeställe auf dem Eis
-* Auf dem Weg in den Stall
-* Probefahrt
-* Exkursion auf Kronprinz-Rudolf-Land
-* Typische Eiswand der Küste von Kronprinz-Rudolf-Land
+* [Kap Fligely von Norden, dicht unter der Küste.](ch007.xhtml#b074)
+* [Kap Germania von Nordosten.](ch007.xhtml#b075)
+* [Das Säulenkap von Südosten.](ch007.xhtml#b076)
+* [Eisfeld in der Teplitzbai mit dem von der Stella Polare gebrochenen Kanale.](ch007.xhtml#b077)
+* [Ausschiffung des Materials in der Teplitzbai.](ch007.xhtml#b078) (Separatbild)
+* [In der Teplitzbai.](ch007.xhtml#b079)
+* [Renntiergeweih, beim Säulenkap gefunden.](ch007.xhtml#b080)
+* [Ein Eisbär.](ch007.xhtml#b082)
+* [Rückkehr von der Jagd.](ch007.xhtml#b082a) (Separatbild)
+* [Das Ende der Jagd.](ch007.xhtml#b083)
+* [Hundeställe auf dem Eis.](ch007.xhtml#b084)
+* [Auf dem Weg in den Stall.](ch007.xhtml#b085)
+* [Probefahrt.](ch007.xhtml#b086)
+* [Exkursion auf Kronprinz-Rudolf-Land.](ch007.xhtml#b087)
+* [Typische Eiswand der Küste von Kronprinz-Rudolf-Land.](ch007.xhtml#b089)
 * Ausschiffen der Ladung während der Pressung
 * Eines der zwei Lagerzelte, die zum Bau des Inneren der Hütte dienten
 * Transport der Hundeställe auf den Strand
