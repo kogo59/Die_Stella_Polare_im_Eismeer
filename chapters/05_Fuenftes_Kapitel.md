@@ -449,7 +449,8 @@ zum Meere hinab. Dessenungeachtet entstehen an allen Punkten, wo sich der Schnee
 festsetzen kann, Gletscher, die mit einer senkrechten Wand, wie es bei den
 Gletschern allgemein ist, im Meere enden; daher kann man sagen, daß die ganze
 Küste mit Ausnahme einer kurzen Strandstrecke in der Teplitzbai aus einer
-senkrecht Eismauer besteht.
+senkrecht Eismauer besteht. sehr anstrengend war, so wurde sie außer Betrieb
+gesetzt, und wir arbeite
 
 Infolge der geringen Höhe von Kronprinz-Rudolf-Land kann der Gletscher keine
 große Bewegung besitzen. In der Tat bemerken wir wenige Spalten und beobachten

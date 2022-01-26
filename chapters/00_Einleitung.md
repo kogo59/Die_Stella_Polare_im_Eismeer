@@ -120,14 +120,14 @@ November 1902
 * [Probefahrt.](ch007.xhtml#b086)
 * [Exkursion auf Kronprinz-Rudolf-Land.](ch007.xhtml#b087)
 * [Typische Eiswand der Küste von Kronprinz-Rudolf-Land.](ch007.xhtml#b089)
-* Ausschiffen der Ladung während der Pressung
-* Eines der zwei Lagerzelte, die zum Bau des Inneren der Hütte dienten
-* Transport der Hundeställe auf den Strand
-* Unsre Winterhütte (Separatbild)
-* Bau der Hütte
-* Eingang zur Hütte
-* Elfenbeinmöwen
-* Die Hütte im Herbst (Separatbild)
+* [Ausschiffen der Ladung während der Pressung.](ch008.xhtml#b096)
+* [Eines der zwei Lagerzelte, die zum Bau des Inneren der Hütte dienten.](ch008.xhtml#b099)
+* [Transport der Hundeställe auf den Strand.](ch008.xhtml#b100)
+* [Unsre Winterhütte.](ch008.xhtml#b100c) (Separatbild)
+* [Bau der Hütte.](ch008.xhtml#b101)
+* [Eingang zur Hütte.](ch008.xhtml#b102)
+* [Elfenbeinmöwen.](ch008.xhtml#b104)
+* [Die Hütte im Herbst.](ch008.xhtml#b105) (Separatbild)
 * Ausschiffung der Kohle
 * Ausbesserung des Lecks
 * Das verlassene Schiff
@@ -139,6 +139,12 @@ November 1902
 * Das Instrumentengestell durch Leinwand gegen Treibschnee geschützt
 * Die ersten Schneefälle
 
+:::: { .align-center  .fs-l }
+Panoramen.
+::::
+
+* [Die Teplitzbai auf Kronprinz-Rudolf-Land.](ch008.xhtml#b096a)
+* Die Northbrookinsel vom De-Bruyne-Sund aus
 
 
 
