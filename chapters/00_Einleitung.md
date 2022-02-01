@@ -128,16 +128,16 @@ November 1902
 * [Eingang zur Hütte.](ch008.xhtml#b102)
 * [Elfenbeinmöwen.](ch008.xhtml#b104)
 * [Die Hütte im Herbst.](ch008.xhtml#b105) (Separatbild)
-* Ausschiffung der Kohle
-* Ausbesserung des Lecks
-* Das verlassene Schiff
-* Das Innere des Zeltes
-* Hütte und Schiff von Westen (Separatbild)
-* Die Hundeställe im Sommer
-* Die Hundeställe nach dem Schneesturm
-* Das Instrumentengestell im Sommer
-* Das Instrumentengestell durch Leinwand gegen Treibschnee geschützt
-* Die ersten Schneefälle
+* [Ausschiffung der Kohle.](ch009.xhtml#b107)
+* [Ausbesserung des Lecks.](ch009.xhtml#b108)
+* [Das verlassene Schiff.](ch009.xhtml#b109)
+* [Das Innere des Zeltes.](ch009.xhtml#b111)
+* [Hütte und Schiff von Westen.](ch009.xhtml#b112) (Separatbild)
+* [Die Hundeställe im Sommer.](ch009.xhtml#b113)
+* [Die Hundeställe nach dem Schneesturm.](ch009.xhtml#b114)
+* [Das Instrumentengestell im Sommer.](ch009.xhtml#b115a)
+* [Das Instrumentengestell durch Leinwand gegen Treibschnee geschützt.](ch009.xhtml#b115b)
+* [Die ersten Schneefälle.](ch009.xhtml#b116)
 
 :::: { .align-center  .fs-l }
 Panoramen.
