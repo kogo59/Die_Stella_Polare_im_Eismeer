@@ -138,6 +138,49 @@ November 1902
 * [Das Instrumentengestell im Sommer.](ch009.xhtml#b115a)
 * [Das Instrumentengestell durch Leinwand gegen Treibschnee geschützt.](ch009.xhtml#b115b)
 * [Die ersten Schneefälle.](ch009.xhtml#b116)
+* [Im Mannschaftszelt.](ch010.xhtml#b119)
+* [Dr. Cavalli im Zelt.](ch010.xhtml#b122)
+* [Die Hütte bei Mondschein.](ch010.xhtml#b126)
+* [Weihnachtszelt.](ch010.xhtml#b129)
+* Ausrüstung zur Schlittenreise. I  (Separatbild)
+* Der Doktor beim Präparieren der Rationen
+* Ausrüstung zur Schlittenreise. II  (Separatbild)
+* Hundegeschirr
+* Der Zelteingang nach dem Sturm
+* Das Schiff nach dem Sturm
+* Der Vorraum der Hütte unter Schnee begraben
+* Eingang zum Zelte
+* Das magnetische Häuschen
+* Die Hunde vor dem Zelte angebunden
+* Die Schlittenkarawane auf dem Wege nach Kap Rohlfs
+* Die Hütte im Frühjahr 1900 (Separatbild)
+* Die Schlittenexpedition zur Abfahrt bereit
+* Die Schlittenexpedition auf dem Packeis
+* Grasso, Geschenk von Fridtjof Nansen, schließlich von Cagnis Expedition aufgegessen
+* Unsere Jagdbeute
+* Kapitän Evensen
+* In der Teplitzbai im März 1900  (Separatbild)
+* Kap Fligely von der Höhe der Insel aus
+* Schneehütte auf Kap Fligely
+* Jagdbeute (Separatbild)
+* Zerlegung eines Bären
+* Die Teilnehmer der ersten Gruppe
+* Die Teplitzbai von Osten
+* Hans, der Norweger
+* Nach Kap Fligely
+* Schiff und Hütte von Westen
+* Felsen des Säulenkaps
+* Felsen des Säulenkaps
+* Im weichen Schnee
+* Cagni angekommen!
+* Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900  (Separatbild)
+* Kajak und Kochapparat der dritten Gruppe
+* Sacripante und Teresa
+* Piccin
+* Orlando
+* Pantalone
+* Die am Leben gebliebenen Hunde in Italien
+* Die Hütte im Sommer
 
 :::: { .align-center  .fs-l }
 Panoramen.
