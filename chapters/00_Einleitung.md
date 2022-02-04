@@ -149,14 +149,14 @@ November 1902
 * [Der Zelteingang nach dem Sturm.](ch011.xhtml#b138)
 * [Das Schiff nach dem Sturm.](ch011.xhtml#b139)
 * [Der Vorraum der Hütte unter Schnee begraben.](ch011.xhtml#b141)
-* Eingang zum Zelte
-* Das magnetische Häuschen
-* Die Hunde vor dem Zelte angebunden
-* Die Schlittenkarawane auf dem Wege nach Kap Rohlfs
-* Die Hütte im Frühjahr 1900 (Separatbild)
-* Die Schlittenexpedition zur Abfahrt bereit
-* Die Schlittenexpedition auf dem Packeis
-* Grasso, Geschenk von Fridtjof Nansen, schließlich von Cagnis Expedition aufgegessen
+* [Eingang zum Zelte.](ch012.xhtml#b144)
+* [Das magnetische Häuschen.](ch012.xhtml#b145)
+* [Die Hunde vor dem Zelte angebunden.](ch012.xhtml#b146)
+* [Die Schlittenkarawane auf dem Wege nach Kap Rohlfs.](ch012.xhtml#b148)
+* [Die Hütte im Frühjahr 1900.](ch012.xhtml#b152) (Separatbild)
+* [Die Schlittenexpedition zur Abfahrt bereit.](ch012.xhtml#b153)
+* [Die Schlittenexpedition auf dem Packeis.](ch012.xhtml#b154)
+* [Grasso, Geschenk von Fridtjof Nansen, schließlich von Cagnis Expedition aufgegessen.](ch012.xhtml#b155)
 * Unsere Jagdbeute
 * Kapitän Evensen
 * In der Teplitzbai im März 1900  (Separatbild)
