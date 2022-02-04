@@ -142,13 +142,13 @@ November 1902
 * [Dr. Cavalli im Zelt.](ch010.xhtml#b122)
 * [Die Hütte bei Mondschein.](ch010.xhtml#b126)
 * [Weihnachtszelt.](ch010.xhtml#b129)
-* Ausrüstung zur Schlittenreise. I  (Separatbild)
-* Der Doktor beim Präparieren der Rationen
-* Ausrüstung zur Schlittenreise. II  (Separatbild)
-* Hundegeschirr
-* Der Zelteingang nach dem Sturm
-* Das Schiff nach dem Sturm
-* Der Vorraum der Hütte unter Schnee begraben
+* [Ausrüstung zur Schlittenreise. I](ch011.xhtml#b133a)  (Separatbild)
+* [Der Doktor beim Präparieren der Rationen.](ch011.xhtml#b133a)
+* [Ausrüstung zur Schlittenreise. II](ch011.xhtml#b136a)  (Separatbild)
+* [Hundegeschirr.](ch011.xhtml#b137)
+* [Der Zelteingang nach dem Sturm.](ch011.xhtml#b138)
+* [Das Schiff nach dem Sturm.](ch011.xhtml#b139)
+* [Der Vorraum der Hütte unter Schnee begraben.](ch011.xhtml#b141)
 * Eingang zum Zelte
 * Das magnetische Häuschen
 * Die Hunde vor dem Zelte angebunden
