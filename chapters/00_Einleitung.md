@@ -157,13 +157,13 @@ November 1902
 * [Die Schlittenexpedition zur Abfahrt bereit.](ch012.xhtml#b153)
 * [Die Schlittenexpedition auf dem Packeis.](ch012.xhtml#b154)
 * [Grasso, Geschenk von Fridtjof Nansen, schließlich von Cagnis Expedition aufgegessen.](ch012.xhtml#b155)
-* Unsere Jagdbeute
-* Kapitän Evensen
-* In der Teplitzbai im März 1900  (Separatbild)
-* Kap Fligely von der Höhe der Insel aus
-* Schneehütte auf Kap Fligely
-* Jagdbeute (Separatbild)
-* Zerlegung eines Bären
+* [Unsere Jagdbeute.](ch013.xhtml#b158)
+* [Kapitän Evensen.](ch013.xhtml#b158)
+* [In der Teplitzbai im März 1900.](ch013.xhtml#b160)  (Separatbild)
+* [Kap Fligely von der Höhe der Insel aus.](ch013.xhtml#b163)
+* [Schneehütte auf Kap Fligely](ch013.xhtml#b165)
+* [Jagdbeute.](ch013.xhtml#b168) (Separatbild)
+* [Zerlegung eines Bären.](ch013.xhtml#b169)
 * Die Teilnehmer der ersten Gruppe
 * Die Teplitzbai von Osten
 * Hans, der Norweger
