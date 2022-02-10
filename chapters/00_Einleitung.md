@@ -164,16 +164,16 @@ November 1902
 * [Schneehütte auf Kap Fligely](ch013.xhtml#b165)
 * [Jagdbeute.](ch013.xhtml#b168) (Separatbild)
 * [Zerlegung eines Bären.](ch013.xhtml#b169)
-* Die Teilnehmer der ersten Gruppe
-* Die Teplitzbai von Osten
-* Hans, der Norweger
-* Nach Kap Fligely
-* Schiff und Hütte von Westen
-* Felsen des Säulenkaps
-* Felsen des Säulenkaps
-* Im weichen Schnee
-* Cagni angekommen!
-* Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900  (Separatbild)
+* [Die Teilnehmer der ersten Gruppe.](ch014.xhtml#b173)
+* [Die Teplitzbai von Osten.](ch014.xhtml#b176)
+* [Hans, der Norweger.](ch014.xhtml#b178)
+* [Nach Kap Fligely.](ch014.xhtml#b182)
+* [Schiff und Hütte von Westen.](ch014.xhtml#b187)
+* [Felsen des Säulenkaps.](ch014.xhtml#b188)
+* [Felsen des Säulenkaps.](ch014.xhtml#b189)
+* [Im weichen Schnee.](ch014.xhtml#b190)
+* [Cagni angekommen!](ch014.xhtml#b191)
+* [Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900.](ch014.xhtml#b192)  (Separatbild)
 * Kajak und Kochapparat der dritten Gruppe
 * Sacripante und Teresa
 * Piccin
