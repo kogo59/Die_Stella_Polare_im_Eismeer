@@ -174,12 +174,12 @@ November 1902
 * [Im weichen Schnee.](ch014.xhtml#b190)
 * [Cagni angekommen!](ch014.xhtml#b191)
 * [Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900.](ch014.xhtml#b192)  (Separatbild)
-* Kajak und Kochapparat der dritten Gruppe
-* Sacripante und Teresa
-* Piccin
-* Orlando
-* Pantalone
-* Die am Leben gebliebenen Hunde in Italien
+* [Kajak und Kochapparat der dritten Gruppe.](ch015.xhtml#b195)
+* [Sacripante und Teresa.](ch015.xhtml#b196)
+* [Piccini.](ch015.xhtml#b197)
+* [Orlando.](ch015.xhtml#b198)
+* [Pantalone.](ch015.xhtml#b202)
+* [Die am Leben gebliebenen Hunde in Italien.](ch015.xhtml#b203)
 * Die Hütte im Sommer
 
 :::: { .align-center  .fs-l }
