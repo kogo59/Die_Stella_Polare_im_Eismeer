@@ -180,7 +180,54 @@ November 1902
 * [Orlando.](ch015.xhtml#b198)
 * [Pantalone.](ch015.xhtml#b202)
 * [Die am Leben gebliebenen Hunde in Italien.](ch015.xhtml#b203)
-* Die Hütte im Sommer
+* [Die Hütte im Sommer.](ch016.xhtml#b208)
+* [Siesta.](ch016.xhtml#b209)
+* [Kommandant Cagini bei der Arbeit.](ch016.xhtml#b210)
+* [Das magnetische Häuschen im Wasser.](ch016.xhtml#b211a)
+* [Das magnetische Häuschen an Land geschafft.](ch016.xhtml#b211b)
+* [Rückkehr vom Alkenkap.](ch016.xhtml#b212)
+* [Die Teplitzbai am 15. Juli 1900.](ch016.xhtml#b213) (Separatbild)
+* Die linke Schiffseite
+* Kanal zur Leitung des Schmelzwassers gegen das Schiff
+* Der Abflußkanal am Heck
+* Raubmöwe (Stercorarius parasiticus)
+* Anbohrung des Eises zum Legen der Sprengminen
+* Offenes Wasser längs des Schiffes
+* Die Befreiung des Schiffes durch Sprengminen  (Separatbild)
+* Loslösung eines Eisstückes von der Schiffsseite
+* Die Stella Polare wieder aufgerichtet
+* Schaffung eines Kanals zum Flottmachen des Schiffes
+* Zur Abfahrt bereit
+* Letzter Blick auf die Teplitzbai
+* Letzter Blick auf das Säulenkap
+* Das Alkenkap und Kap Brorof
+* Eis im Britischen Kanal
+* Ein weißer Delphin
+* Dicht an einem Eisberg
+* Ein gefährlicher Nachbar
+* Treibeis im Britischen Kanal
+* Die letzten Hunde der Stella Polare
+* Auf dem Wege in die Heimat
+* Begegnung der Stella Polare mit der Hertha bei Hammerfest  (Separatbild)
+* Ankunft in Tromsö
+* Kapitänleutnant Umberto Cagni (Separatbild)
+* Beladung der Schlitten
+* Die Ausreißer
+* Am Vorabend des Abmarsches zum Pol (Separatbild)
+* Die Wacht
+* Auf dem Weitermarsch
+* Nach Norden
+* Die todmüden Hunde
+* Bespannung der Schlitten
+* Vor neuem Eis
+* Auf zum Pol! (Separatbild)
+* Bahnung eines Weges
+* Ein Weg zum Verzweifeln
+* Schlechter Weg
+* Guter Weg
+* Cagnis Vorbereitungen zum Nachtlager (Separatbild)
+
+
 
 :::: { .align-center  .fs-l }
 Panoramen.
