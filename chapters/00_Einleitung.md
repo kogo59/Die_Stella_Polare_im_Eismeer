@@ -187,18 +187,18 @@ November 1902
 * [Das magnetische Häuschen an Land geschafft.](ch016.xhtml#b211b)
 * [Rückkehr vom Alkenkap.](ch016.xhtml#b212)
 * [Die Teplitzbai am 15. Juli 1900.](ch016.xhtml#b213) (Separatbild)
-* Die linke Schiffseite
-* Kanal zur Leitung des Schmelzwassers gegen das Schiff
-* Der Abflußkanal am Heck
-* Raubmöwe (Stercorarius parasiticus)
-* Anbohrung des Eises zum Legen der Sprengminen
-* Offenes Wasser längs des Schiffes
-* Die Befreiung des Schiffes durch Sprengminen  (Separatbild)
-* Loslösung eines Eisstückes von der Schiffsseite
-* Die Stella Polare wieder aufgerichtet
-* Schaffung eines Kanals zum Flottmachen des Schiffes
-* Zur Abfahrt bereit
-* Letzter Blick auf die Teplitzbai
+* [Die linke Schiffseite.](ch017.xhtml#b215)
+* [Kanal zur Leitung des Schmelzwassers gegen das Schiff.](ch017.xhtml#b216)
+* [Der Abflußkanal am Heck.](ch017.xhtml#b217)
+* [Raubmöwe (Stercorarius parasiticus)](ch017.xhtml#b218)
+* [Anbohrung des Eises zum Legen der Sprengminen.](ch017.xhtml#b220)
+* [Offenes Wasser längs des Schiffes.](ch017.xhtml#b222)
+* [Die Befreiung des Schiffes durch Sprengminen.](ch017.xhtml#b224) (Separatbild)
+* [Loslösung eines Eisstückes von der Schiffsseite.](ch017.xhtml#b225)
+* [Die Stella Polare wieder aufgerichtet.](ch017.xhtml#b226)
+* [Schaffung eines Kanals zum Flottmachen des Schiffes.](ch017.xhtml#b227)
+* [Zur Abfahrt bereit.](ch017.xhtml#b230)
+* [Letzter Blick auf die Teplitzbai.](ch017.xhtml#b231)
 * Letzter Blick auf das Säulenkap
 * Das Alkenkap und Kap Brorof
 * Eis im Britischen Kanal
