@@ -199,17 +199,17 @@ November 1902
 * [Schaffung eines Kanals zum Flottmachen des Schiffes.](ch017.xhtml#b227)
 * [Zur Abfahrt bereit.](ch017.xhtml#b230)
 * [Letzter Blick auf die Teplitzbai.](ch017.xhtml#b231)
-* Letzter Blick auf das Säulenkap
-* Das Alkenkap und Kap Brorof
-* Eis im Britischen Kanal
-* Ein weißer Delphin
-* Dicht an einem Eisberg
-* Ein gefährlicher Nachbar
-* Treibeis im Britischen Kanal
-* Die letzten Hunde der Stella Polare
-* Auf dem Wege in die Heimat
-* Begegnung der Stella Polare mit der Hertha bei Hammerfest  (Separatbild)
-* Ankunft in Tromsö
+* [Letzter Blick auf das Säulenkap.](ch018.xhtml#b234a)
+* [Das Alkenkap und Kap Brorok.](ch018.xhtml#b234b)
+* [Eis im Britischen Kanal.](ch018.xhtml#b235)
+* [Ein weißer Delphin.](ch018.xhtml#b237)
+* [Dicht an einem Eisberg.](ch018.xhtml#b239)
+* [Ein gefährlicher Nachbar.](ch018.xhtml#b241)
+* [Treibeis im Britischen Kanal.](ch018.xhtml#b245)
+* [Die letzten Hunde der Stella Polare.](ch018.xhtml#b247)
+* [Auf dem Wege in die Heimat.](ch018.xhtml#b248)
+* [Begegnung der Stella Polare mit der Hertha bei Hammerfest.](ch018.xhtml#b249)  (Separatbild)
+* [Ankunft in Tromsö.](ch018.xhtml#b250)
 * Kapitänleutnant Umberto Cagni (Separatbild)
 * Beladung der Schlitten
 * Die Ausreißer
