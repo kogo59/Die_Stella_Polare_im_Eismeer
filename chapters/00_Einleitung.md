@@ -210,14 +210,14 @@ November 1902
 * [Auf dem Wege in die Heimat.](ch018.xhtml#b248)
 * [Begegnung der Stella Polare mit der Hertha bei Hammerfest.](ch018.xhtml#b249)  (Separatbild)
 * [Ankunft in Tromsö.](ch018.xhtml#b250)
-* Kapitänleutnant Umberto Cagni (Separatbild)
-* Beladung der Schlitten
-* Die Ausreißer
-* Am Vorabend des Abmarsches zum Pol (Separatbild)
-* Die Wacht
-* Auf dem Weitermarsch
-* Nach Norden
-* Die todmüden Hunde
+* [Kapitänleutnant Umberto Cagni.](ch018.xhtml#b251) (Separatbild)
+* [Beladung der Schlitten.](ch019.xhtml#b266)
+* [Die Ausreißer.](ch019.xhtml#b272)
+* [Am Vorabend des Abmarsches zum Pol.](ch019.xhtml#b273) (Separatbild)
+* [Die Wacht.](ch019.xhtml#b276)
+* [Auf dem Weitermarsch.](ch019.xhtml#b279)
+* [Nach Norden.](ch019.xhtml#b284)
+* [Die todmüden Hunde.](ch019.xhtml#b289)
 * Bespannung der Schlitten
 * Vor neuem Eis
 * Auf zum Pol! (Separatbild)
