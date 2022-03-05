@@ -218,13 +218,13 @@ November 1902
 * [Auf dem Weitermarsch.](ch019.xhtml#b279)
 * [Nach Norden.](ch019.xhtml#b284)
 * [Die todmüden Hunde.](ch019.xhtml#b289)
-* Bespannung der Schlitten
-* Vor neuem Eis
-* Auf zum Pol! (Separatbild)
-* Bahnung eines Weges
-* Ein Weg zum Verzweifeln
-* Schlechter Weg
-* Guter Weg
+* [Bespannung der Schlitten.](ch020.xhtml#b299)
+* [Vor neuem Eis.](ch020.xhtml#b303)
+* [Auf zum Pol!](ch020.xhtml#b304) (Separatbild)
+* [Bahnung eines Weges.](ch020.xhtml#b305)
+* [Ein Weg zum Verzweifeln.](ch020.xhtml#b313) (Separatbild)
+* [Schlechter Weg.](ch020.xhtml#b323)
+* [Guter Weg.](ch020.xhtml#b331)
 * Cagnis Vorbereitungen zum Nachtlager (Separatbild)
 
 

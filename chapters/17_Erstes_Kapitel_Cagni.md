@@ -21,7 +21,7 @@ Die Schlittenexpedition zum Pole.
 
 ::: justified
 
-Die schwierigste und zugleich wichtigste Aufgabe, die es bei der Expedition nach
+**D**ie schwierigste und zugleich wichtigste Aufgabe, die es bei der Expedition nach
 Norden zu lösen galt, war die Ernährungsfrage. Wir trafen daher alle in dieser
 Beziehung nötigen Vorkehrungen mit der peinlichsten Sorgfalt, allen voran der
 Doktor.
@@ -883,7 +883,7 @@ dem das Auge des Seemannes feucht wird, wenn er fern vom Vaterlande weilt und an
 all das zurückdenkt, was er dort Teures zurückgelassen hat.
 
 Unser Prinz schwenkt seine Mütze, und wir setzen unseren Weg nach einer Stelle
-an der Küste fort, wo wir Petigar und Andresen gewahren, die uns Zeichen machen.
+an der Küste fort, wo wir Petigax und Andresen gewahren, die uns Zeichen machen.
 
 Wir verlieren dadurch etwas Zeit, daß wir einige Spalten über schreiten müssen,
 und um 1½ Uhr beginnen wir, die Schlitten mittels einer von den Bergführern
