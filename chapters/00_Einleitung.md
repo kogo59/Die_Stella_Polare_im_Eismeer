@@ -225,9 +225,36 @@ November 1902
 * [Ein Weg zum Verzweifeln.](ch020.xhtml#b313) (Separatbild)
 * [Schlechter Weg.](ch020.xhtml#b323)
 * [Guter Weg.](ch020.xhtml#b331)
-* Cagnis Vorbereitungen zum Nachtlager (Separatbild)
-
-
+* [Cagnis Vorbereitungen zum Nachtlager.](ch021.xhtml#b336) (Separatbild)
+* [Canepa, der Schlächter.](ch021.xhtml#b339)
+* [Ausgraben der Schlitten.](ch021.xhtml#b342)
+* [Der gefährdete Schlitten.](ch021.xhtml#b343)
+* [Lagerplatz.](ch021.xhtml#b349)
+* [Errichtung des Zeltes.](ch021.xhtml#b357)
+* [Schlechter Weg bei Neuschnee.](ch021.xhtml#b359)
+* [Eiswüste.](ch021.xhtml#b369)
+* [Die Flagge vor dem Zelte.](ch021.xhtml#b379)
+* [Der nördlichste Lagerplatz.](ch021.xhtml#b380)
+* [Der erste Schritt der Heimat entgegen.](ch021.xhtml#b382)
+* Prächtige Bahn
+* Wahl des Schlachtopfers
+* Das Packeis im Mai (Separatbild)
+* Wasser auf allen Seiten
+* Rings völlige Ebene
+* Ein aufreibender Weg
+* Prüfen der Waffen
+* Aufschlagen des Zeltes.
+* Weite, sehr schöne Ebene
+* Ein gefährliches Fahrzeug  (Separatbild)
+* Sehr schöne Ebene
+* Vor Anstrengung außer Atem
+* Kein Weg nach Süden
+* Im Schneesumpf
+* Wieder eine schöne Ebene
+* Gatto, nach Italien zurückgebracht.
+* Losgerissenes Packeis, die Rückkehr Cavallis erschwerend (Separatbild)
+* Cardenti auf der Fahrt zum Gletscher
+* Alexandraland
 
 :::: { .align-center  .fs-l }
 Panoramen.
@@ -236,6 +263,14 @@ Panoramen.
 * [Die Teplitzbai auf Kronprinz-Rudolf-Land.](ch008.xhtml#b096a)
 * Die Northbrookinsel vom De-Bruyne-Sund aus
 
+
+:::: { .align-center  .fs-l }
+Karten.
+::::
+
+Kaiser Franz-Joseph-Archipel. Maßstab 1: 1 000 000 — Nebenkarten: Teplitzbai.
+Maßstab 1: 1 00000. Lage der Stella Polare im Winter. Maßstab 1:20 000
+Schlittenexpedition des Kommandanten Cagni 11. März bis 23. Juni 1900. Maßstab 1:6 500 000.
 
 
 :::
