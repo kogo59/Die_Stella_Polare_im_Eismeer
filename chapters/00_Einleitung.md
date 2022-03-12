@@ -236,13 +236,13 @@ November 1902
 * [Die Flagge vor dem Zelte.](ch021.xhtml#b379)
 * [Der nördlichste Lagerplatz.](ch021.xhtml#b380)
 * [Der erste Schritt der Heimat entgegen.](ch021.xhtml#b382)
-* Prächtige Bahn
-* Wahl des Schlachtopfers
-* Das Packeis im Mai (Separatbild)
-* Wasser auf allen Seiten
-* Rings völlige Ebene
-* Ein aufreibender Weg
-* Prüfen der Waffen
+* [Prächtige Bahn.](ch022.xhtml#b391)
+* [Wahl des Schlachtopfers.](ch022.xhtml#b399)
+* [Das Packeis im Mai.](ch022.xhtml#b400) (Separatbild)
+* [Wasser auf allen Seiten.](ch022.xhtml#b404)
+* [Rings völlige Ebene.](ch022.xhtml#b407)
+* [Ein aufreibender Weg.](ch022.xhtml#b413)
+* [Prüfen der Waffen.](ch022.xhtml#b422)
 * Aufschlagen des Zeltes.
 * Weite, sehr schöne Ebene
 * Ein gefährliches Fahrzeug  (Separatbild)

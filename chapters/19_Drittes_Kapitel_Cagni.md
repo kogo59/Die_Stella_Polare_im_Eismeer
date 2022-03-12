@@ -1,4 +1,4 @@
-# Drittes Kapitel.<br />**Dir nördlichste Breite.** {#neunzehn .unnumbered}
+# Drittes Kapitel.<br />**Die nördlichste Breite.** {#neunzehn .unnumbered}
 
 ::: justified
 
@@ -1434,7 +1434,7 @@ Kilogramm und der leichteste, von dem eine Zeitlang nichts hinweggenommen wird,
 170 Kilogramm.
 
 :::: { .wrap-100 }
-![Der erste Schritt der Heimat entgegen.](Stella_Polare_382.jpg "er erste Schritt der Heimat entgegen."){#b382}
+![Der erste Schritt der Heimat entgegen.](Stella_Polare_382.jpg "Der erste Schritt der Heimat entgegen."){#b382}
 ::::
 
 Ich lege drei mit Siegellack dicht verschlossene Blechröhren auf den Schnee, die
