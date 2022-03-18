@@ -243,14 +243,15 @@ November 1902
 * [Rings völlige Ebene.](ch022.xhtml#b407)
 * [Ein aufreibender Weg.](ch022.xhtml#b413)
 * [Prüfen der Waffen.](ch022.xhtml#b422)
-* Aufschlagen des Zeltes.
-* Weite, sehr schöne Ebene
-* Ein gefährliches Fahrzeug  (Separatbild)
-* Sehr schöne Ebene
-* Vor Anstrengung außer Atem
-* Kein Weg nach Süden
-* Im Schneesumpf
-* Wieder eine schöne Ebene
+* [Aufschlagen des Zeltes.](ch023.xhtml#b431)
+* [Weite, sehr schöne Ebene.](ch023.xhtml#b439)
+* [Ein gefährliches Fahrzeug.](ch023.xhtml#b444)  (Separatbild)
+* [Sehr schöne Ebene.](ch023.xhtml#b449)
+* [Vor Anstrengung außer Atem.](ch023.xhtml#b455)
+* [Kein Weg nach Süden.](ch023.xhtml#b461)
+* [Im Schneesumpf.](ch023.xhtml#b469)
+* [Wieder eine schöne Ebene.](ch023.xhtml#b479)
+* [Ein hartes Stück Arbeit.](ch023.xhtml#b485)
 * Gatto, nach Italien zurückgebracht.
 * Losgerissenes Packeis, die Rückkehr Cavallis erschwerend (Separatbild)
 * Cardenti auf der Fahrt zum Gletscher
