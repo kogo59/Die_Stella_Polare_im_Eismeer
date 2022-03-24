@@ -252,9 +252,9 @@ November 1902
 * [Im Schneesumpf.](ch023.xhtml#b469)
 * [Wieder eine schöne Ebene.](ch023.xhtml#b479)
 * [Ein hartes Stück Arbeit.](ch023.xhtml#b485)
-* Gatto, nach Italien zurückgebracht.
-* Losgerissenes Packeis, die Rückkehr Cavallis erschwerend (Separatbild)
-* Cardenti auf der Fahrt zum Gletscher
+* [Gatto, nach Italien zurückgebracht.](ch024.xhtml#b501)
+* [Losgerissenes Packeis, die Rückkehr Cavallis erschwerend.](ch024.xhtml#b512) (Separatbild)
+* [Cardenti auf der Fahrt zum Gletscher.](ch024.xhtml#b519)
 * Alexandraland
 
 :::: { .align-center  .fs-l }
@@ -262,7 +262,7 @@ Panoramen.
 ::::
 
 * [Die Teplitzbai auf Kronprinz-Rudolf-Land.](ch008.xhtml#b096a)
-* Die Northbrookinsel vom De-Bruyne-Sund aus
+* [Die Northbrookinsel vom De-Bruyne-Sund aus.](ch018.xhtml#b240)
 
 
 :::: { .align-center  .fs-l }

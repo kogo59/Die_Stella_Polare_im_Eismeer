@@ -181,6 +181,10 @@ Eisfelder übten auf das Schiff eine Pressung aus. Die Lage war beunruhigend, un
 wir hielten uns für jede Eventualität bereit, bei geheiztem Kessel und bemannten
 Pumpen, falls das Wasser im Laderaum steigen sollte.
 
+:::: { .wrap-100  }
+![Die Northbrookinsel vom De-Bruyne-Sund aus.](Stella_Polare_240.jpg "Die Northbrookinsel vom De-Bruyne-Sund aus."){#b240}
+::::
+
 Die Eisberge, drei an Zahl, standen in einem Dreieck, nur wenige hundert Meter
 voneinander entfernt; der mittlere lag uns am nächsten. Wurden wir auf einen
 dieser Eiskolosse getrieben, so bedeutete dies, daß wir nicht weiter konnten und

@@ -2,12 +2,12 @@
 <br /><br /><br /><br /><br /><br />
 Bericht des Kommandanten Umberto Cagni
 ::::
-<br /><br />
+<br />
 
-:::: { .fs-xxs .align-center }
+:::: { .fs-xs .align-center }
 über
 ::::
-<br /><br />
+<br />
 
 :::: { .fs-l .align-center .break-after }
 Die Schlittenexpedition zum Pole.
