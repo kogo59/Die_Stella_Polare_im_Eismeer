@@ -539,7 +539,7 @@ nehmen, aber infolge eines kleinen Mißverständnisses hatte die Sonne im
 Augenblicke der Beobachtung den Meridian schon überschritten. Savoie, der mir
 mit dem Schlitten, auf dem sich die Instrumente befanden, voraus war, hatte
 einen meiner Befehle falsch verstanden und sich gerade im günstigen Moment etwas
-von uns entfernt, wodurch er. ohne es zu wollen, die Beobachtung für diesmal
+von uns entfernt, wodurch er, ohne es zu wollen, die Beobachtung für diesmal
 vereitelte. Ich war über dieses Mißlingen durchaus nicht ärgerlich, weil ich
 glaubte, es würde noch zwei bis drei Tage dauern, ehe das Land in Sicht käme.
 Wie groß war daher unser Erstaunen, als wir um 1 Uhr Nachmittags tief am
@@ -588,7 +588,7 @@ Anstrengungen auf das eine und einzige Ziel richten, anzukommen und bald
 anzukommen. Unter der Einwirkung dieses Ansporns haben wir heute eine weite
 Strecke zurückgelegt, nach meiner Schätzung nicht weniger als 35 Kilometer. Es
 war der längste Tagemarsch. Wir überschritten ausgedehnte Flächen glatten,
-neuen, im letzten Winter gebildeten Eises, auf dem es sich wunder bar
+neuen, im letzten Winter gebildeten Eises, auf dem es sich wunderbar
 marschierte, dann eine kurze Strecke mit Eiswällen und Kanälen. Wir machen um 7
 Uhr Abends Halt und haben noch ebenes Eis vor uns. Wir bemerken mehrere offene
 Kanäle, hoffen aber, daß sie in der Nacht sich schließen oder zufrieren. Die
@@ -832,7 +832,7 @@ Nach einem mehrstündigen Marsche klart das Wetter auf, und wir erkennen im Süd
 Kap Germania, im Norden Kap Fligely, und die Insel in der Mitte ist weiter
 nichts als die dunkle Endmauer des sich senkrecht ins Meer stürzenden
 Gletschers. Der Hintergrund, der uns als der Himmel erschien, ist der
-himmelblaue Gletscher selbst, auf dessen Rücken der vom Winde au vereinzelten
+himmelblaue Gletscher selbst, auf dessen Rücken der vom Winde an vereinzelten
 Stellen in wechselnden, gewundenen Linien angehäufte Schnee mit seinem weißen
 Schimmer sich in in der Tat wie Wolken vom Ganzen abhebt und loslöst.
 
@@ -907,7 +907,7 @@ Schwierigkeiten des Weges zu überwinden. Zelt, Schlitten und Hunde würden wir
 morgen holen. Unsere auf der höchsten Spitze gehißte Flagge diente zur
 Kennzeichnung des Lagerplatzes. Wir brauchen mehr als eine Stunde zum
 Zurücklegen dieser Strecke von 500 Metern, so schauderhaft ist das Eis, und als
-wir der Stelle gegenüber angekommen sind, au der sich Cardenti befinden mußte,
+wir der Stelle gegenüber angekommen sind, an der sich Cardenti befinden mußte,
 sehen wir weder ihn noch das Kajak im Meere. Sicher ist er wieder eingestiegen,
 um an einem anderen Punkte einen Versuch zu machen und zum Lager zurückzukehren.
 Wir kehren auf demselben Wege zum Zelte zurück; Cardenti ist nicht da. Der

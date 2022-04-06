@@ -380,7 +380,7 @@ werden fortgeworfen; der Pemmikan wird in einem Sacke untergebracht. Wir legen
 das wenige Gebäck, das uns noch verbleibt, in eine Pemmikankiste. Abgesehen von
 den heutigen Mahlzeiten haben wir noch:
 
-:::: fs-m
+:::: fs-s
 |                                              |           |                     |
 |----------------------------------------------|-----------|---------------------:|
 | Ein Kistchen mit Kolonialwaren (30 Rationen) |           |                     |

@@ -108,7 +108,7 @@ zweite grüne und für die dritte rote aufgemalt und außerdem in großen
 Schriftzeichen die Zahl der darin enthaltenen Rationen und das Bruttogewicht des
 ganzen Stückes angegeben.
 
-:::: { .fs-s .break-before }
+:::: { .fs-xxs .break-before }
 |                                                                    | Rationen             | Kilogramm            | Gesamtgewicht Kilogramm |
 |-------------------------------------------------------------------|---------------------:|---------------------:|------------------------:|
 | *Lebensmittel der ersten Gruppe (für die Rückkehr)*                |                      |                      |                         |
@@ -133,7 +133,7 @@ ganzen Stückes angegeben.
 
 ::::
 
-:::: { .fs-s .break-before }
+:::: { .fs-xxs .break-before }
 |                                                                                     | Rationen         | Kilogramm            | Gesamtgewicht Kilogramm |
 |------------------------------------------------------------------------------------|-----------------:|---------------------:|------------------------:|
 | *Lebensmittel der zweiten Gruppe (für die Rückkehr)*                                |                  |                      |                         |
@@ -262,7 +262,7 @@ erhaltenen Befehl.
 Das Gesamtgewicht der auf den Schlitten zu befördernden Kleidung für neun
 Teilnehmer belief sich daher auf 128 Kilogramm.
 
-:::: { .fs-s .break-before }
+:::: { .fs-xxs .break-before }
 | Lagerausrüstung und Zubehör für jede Gruppe                            | Einzelgewicht in Kilogr. | Anzahl               | Gesamtgewicht in Kilogr.     |
 |-----------------------------------------------------------------------|-------------------------:|---------------------:|-----------------------------:|
 | Ein vollstandiges Zelt, Bambusstäbe und Zeltstangen                     | 15,<small>00</small>      | 1                    | 15,<small>00</small>          |
@@ -386,7 +386,7 @@ niedrigste Zahl, um etwaigen unangenehmen Überraschungen zu entgehen.
 Am Morgen des sechzehnten Tages wäre die zurückkehrende Gruppe versehen gewesen
 mit:
 
-:::: { .fs-s .break-before }
+:::: { .fs-xxs .break-before }
 
 |                                                                                     |             |                           |   |
 |------------------------------------------------------------------------------------|------------|--------------------------:|---:|
@@ -416,7 +416,7 @@ Rationen für sie gehabt haben.
 
 Die zweite zurückkehrende Gruppe wäre versehen worden mit
 
-:::: { .fs-s .break-before }
+:::: { .fs-xxs .break-before }
 |                                                                                                   |             |                           |   |
 |--------------------------------------------------------------------------------------------------|------------|--------------------------:|---:|
 | 17 Hunden                                                                                         |             |                           |   |
@@ -492,7 +492,7 @@ welche auf dem Marsche die Stelle des Hemdes vertreten mußte; diese Methode
 bewährte sich vortrefflich. Über den Gang der Chronometer s. meinen Bericht im
 ersten Teil der „Osservazioni scientifiche“. —<a id="tabelle"></a>
 
-:::: { .fs-xs .break-before }
+:::: { .fs-xxs .break-before }
 |                                                 |                          |                          |                          | Dritte Gruppe            |                          |                          |                          | Zweite Gruppe            |                          |                          |                          | Erste Gruppe             | Gesamtgewicht                 |
 |------------------------------------------------|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|-------------------------:|------------------------------:|
 |                                                 |                          |                          |                          |                          | Nummern der Schlitten    |                          |                          |                          |                          |                          |                          |                          |                               |
@@ -600,7 +600,7 @@ ersten Marschtagen die Lebensmittel befördern soll. Er wird von Kapitän Evense
 und von den norwegischen Matrosen Ole und Hans geführt. Seine Ladung besteht
 aus:
 
-:::: fs-s
+:::: fs-xs
 |                                                                 |         |                      |
 |----------------------------------------------------------------:|--------:|---------------------:|
 | Einem Sack mit Butter, Liebigs Fleischextrakt und Milch           | Kilogr. | 7,<small>50</small>   |
