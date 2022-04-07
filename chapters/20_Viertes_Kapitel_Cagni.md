@@ -462,7 +462,7 @@ Leithund eignet.
 Sonntag, 6. Mai. Wir haben alle Schlitten aufgebunden, das Innere der Kajaks vom
 Schnee gereinigt, die Ladungen wieder an Ort und Stelle gebracht und sie auf
 möglichst gleichmäßige Art verteilt. An den ersten Schlitten, welcher Bahn
-brechen muß, spannen wir noch acht Hunde, au die übrigen sechs bis sieben.
+brechen muß, spannen wir noch acht Hunde, an die übrigen sechs bis sieben.
 
 Jetzt merken wir an der kleinen Zahl, die uns verbleibt, die tägliche
 Verminderung der Tiere, der nicht dieselbe Verminderung der Ladung entspricht,
@@ -723,7 +723,7 @@ benutzen können.
 
 Gestern unterbrachen kleine, aber zahlreiche, von Winde abgerundete Blöcke die
 Eintönigkeit der Ebene; heute liegt dagegen eine vollkommene ebene Fläche vor
-uns, die einer Wüste gleicht und überall kreisrund aussieht, au Horizont von
+uns, die einer Wüste gleicht und überall kreisrund aussieht, am Horizont von
 Eiswällen begrenzt, zu denen wir aber nicht gelangen, weil sie nicht existieren;
 es sind einfach leichte Pressungslinien, die sich in der Ferne ineinander
 verschieben.

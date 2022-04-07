@@ -184,7 +184,7 @@ Das war etwas anderes als den Pol zu erreichen! Als Schiffbrüchige wären wir
 nach Norwegen zurückgekehrt! Gegen 10 Uhr kam das Wasser, das noch um einige
 Centimeter gestiegen war, zum völligen Stillstand.
 
-Wegen der schiefen Lage der „Stella Polare“, die den Aufenthalt au Bord unbequem
+Wegen der schiefen Lage der „Stella Polare“, die den Aufenthalt an Bord unbequem
 machte, wegen der Schwierigkeiten, mit der die Aufrichtung mit Hilfe von
 Sprengungen jetzt verbunden war, ebenso wegen der Gefahr, das Schiff noch tiefer
 sinken zu sehen, und wegen der Sorge vor einer zweiten Eispressung, die das
@@ -207,7 +207,7 @@ Längsstützen, die ihr Halt gewährten. Aus den Rahen und Segeln des Schiffes
 konnte man ein drittes Leinwandzelt herstellen, welches das Ganze noch einmal
 bedeckte.
 
-Wir machten uns sofort au die Arbeit; Cagni war der Leiter des Baues der neuen
+Wir machten uns sofort an die Arbeit; Cagni war der Leiter des Baues der neuen
 Wohnung. Abends schliefen wir schon unter den Zelten.
 
 Es folgte eine Woche unausgesetzter, von schönem Wetter begünstigter Arbeit,

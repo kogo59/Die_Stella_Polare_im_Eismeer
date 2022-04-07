@@ -240,7 +240,7 @@ zahlreichen Hunde, die den ganzen Tag frei umherliefen, einen Bären, als sie ih
 entgegenstürzten. Die größeren männlichen Bären, denen es zu entkommen gelang,
 wenn sie nur 8 bis 10 Hunde auf der Ferse hatten, wurden durch eine Meute von 30
 bis 40 zu Stehen gebracht und gezwungen, auf einen Eishügel zu klettern oder
-sich zu ihrer Verteidigung au einen Eisblock zu lehnen. Wir hatten somit Zeit,
+sich zu ihrer Verteidigung an einen Eisblock zu lehnen. Wir hatten somit Zeit,
 heranzukommen und sie auf wenige Meter Entfernung zu schießen. Kein Bär konnte
 uns entgehen. Mitunter trugen die Hunde auf der Jagd Verletzungen davon, und
 zwar fast immer von männlichen Bären, selten von weiblichen. Dank der

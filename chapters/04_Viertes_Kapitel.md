@@ -76,7 +76,7 @@ durch den Anprall zerbrochenen Eisschollen her; dann aber bemerken wir eine
 leichte Bewegung auf dem Eisfelde zu unserer Linken. Das Schiff bleibt
 unglücklicherweise gegen unsere Absicht in einer Pressungslinie liegen, während
 es sich wenige hundert Meter weiter vorn oder hinten in voller Sicherheit
-befunden hätte. Langsam schiebt sich das Eisfeld zu unserer Linken au das Schiff
+befunden hätte. Langsam schiebt sich das Eisfeld zu unserer Linken an das Schiff
 heran und macht durch dieses Vorrücken unsere ganze Arbeit vergeblich, indem es
 uns von neuem den Weg versperrt. Das Eis kommt zum Stillstand und rührt sich
 eine Zeitlang nicht von der Stelle, bis es sich gegen 5 Uhr wieder in Bewegung

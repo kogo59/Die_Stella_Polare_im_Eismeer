@@ -289,7 +289,7 @@ vierzehn Tagen zerklüftet worden ist.
 
 Wir stoßen auf viele kleine Seen und viele Kanäle, die zum Glück gefroren sind,
 und finden den Schnee niedriger als den von gestern abend, in dem man häufig bis
-au die Hüften versank. Wir müssen uns nach Ostnordost wenden, um den günstigeren
+an die Hüften versank. Wir müssen uns nach Ostnordost wenden, um den günstigeren
 Weg auszunutzen, da sich von Osten bis Süden eine Zone von Eisklippen hinzieht,
 die uns Besorgnis einflößt.
 
@@ -594,7 +594,7 @@ dort das Ende des Bugsiertaues zu befestigen. Die nicht allzu feste Eisscholle
 fängt an zu bersten, als ich auf halbem Wege bin; ich bin schon bis zu den Knien
 im Wasser und kann mich gerade noch mit knapper Not auf eine große Scholle
 retten, die mit dein ersehnten Ufer fest verbunden ist, sonst hätte ich ein
-Vollbad genommen. Ich befestige das Seil au der Scholle, und die Leute beginnen
+Vollbad genommen. Ich befestige das Seil an der Scholle, und die Leute beginnen
 ihre kleine Insel heranzuziehen. Die Hunde und die Schlitten, auf dieser bunt
 durcheinander gewürfelt, Petigax und Canepa, welche ziehen, Fenoillet auf diesem
 seltsamen Fahrzeuge vorn auf den Knien liegend und bemüht, alle Eisschollen, die

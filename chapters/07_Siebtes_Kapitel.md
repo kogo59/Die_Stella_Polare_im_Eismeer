@@ -2,7 +2,7 @@
 
 ::: justified
 **D**as nach der Eispressung verlassene Schiff bildete das einzige Hilfsmittel zur
-Rückkehr ins Vaterland im nächsten Jahre. Man mußte daher von neuem au den
+Rückkehr ins Vaterland im nächsten Jahre. Man mußte daher von neuem an den
 Versuch denken, es wiederzugewinnen. Das Wasser hatte einen Teil des
 Maschinenraumes, den Kondensator und die Kesselfeuerungen überschwemmt und war
 zu einer Eismasse von ungefähr 50 Centimeter Dicke zusammengefroren. Die Lage
@@ -157,7 +157,7 @@ Koch, der eine gesunde, abwechslungsreiche Küche führte, verdankten wir unsere
 Gesundheit. Sein Amt war durchaus keine Sinekure. Da er täglich zweimal die
 Speisen für 20 Personen zubereiten und außerdem das Brot backen mußte, war er
 vom Morgen bis zum Abend beschäftigt. Für ihn verliefen die Tage ein ganzes Jahr
-hindurch in immer gleicher Weise, ohne Ruhepause; au Festtagen hatte er nur noch
+hindurch in immer gleicher Weise, ohne Ruhepause; an Festtagen hatte er nur noch
 mehr zu arbeiten.
 
 Am 4. November wurde das Wetter schlecht, und es blies ein sehr heftiger Wind

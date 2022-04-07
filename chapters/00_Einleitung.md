@@ -255,7 +255,7 @@ November 1902
 * [Gatto, nach Italien zurückgebracht.](ch024.xhtml#b501)
 * [Losgerissenes Packeis, die Rückkehr Cavallis erschwerend.](ch024.xhtml#b512) (Separatbild)
 * [Cardenti auf der Fahrt zum Gletscher.](ch024.xhtml#b519)
-* Alexandraland
+* [Alexandraland.](ch026.xhtml#b560)
 
 :::: { .align-center  .fs-l }
 Panoramen.
@@ -269,9 +269,10 @@ Panoramen.
 Karten.
 ::::
 
-Kaiser Franz-Joseph-Archipel. Maßstab 1: 1 000 000 — Nebenkarten: Teplitzbai.
-Maßstab 1: 1 00000. Lage der Stella Polare im Winter. Maßstab 1:20 000
-Schlittenexpedition des Kommandanten Cagni 11. März bis 23. Juni 1900. Maßstab 1:6 500 000.
+* [Kaiser Franz-Joseph-Archipel. Maßstab 1:1 000 000.](ch026.xhtml#b561)
+* [Nebenkarten: Teplitzbai. Maßstab 1:100 000.](ch026.xhtml#b562)
+* [Lage der Stella Polare im Winter. Maßstab 1:20 000](ch017.xhtml#b563)
+* [Schlittenexpedition des Kommandanten Cagni 11. März bis 23. Juni 1900. Maßstab 1:6 500 000.](ch026.xhtml#b564)
 
 
 :::

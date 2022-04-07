@@ -813,7 +813,7 @@ sollten, abermals gewogen, um den Gewichtsverlust bei ihrer Rückkehr feststelle
 zu können; gegenüber dem Gewicht vom Dezember waren alle leichter geworden. Ich
 gebe hier nach meinen Aufzeichnungen die Zahlen, die sich auf meine Gruppe
 beziehen, vor und nach der Schlittenexpedition; die Angaben über die Gruppe
-Cagnis habe ich nicht mehr finden können.
+Cagnis habe ich nicht mehr finden können.<br /><br />
 
 :::: { .align-center .fs-xs }
 Cavalli 15. Februar 1900 kg 65,<small>800</small> — 18. April 1900 kg 63,<small>000</small><br />
@@ -821,7 +821,7 @@ Cardenti 15. Februar 1900 kg 76,<small>700</small> — 18. April 1900 kg 75, <sm
 Savoie  15. Februar 1900  73,<small>800</small> —  18. April 1900 kg 71,  <small>600</small><br />
 ::::
 
-Die Schlittenexpedition auf dem Packeise hatte für meine Gruppe vom 11. März —
+<br />Die Schlittenexpedition auf dem Packeise hatte für meine Gruppe vom 11. März —
 18. April, also 39 Tage, gedauert.
 
 Der Gewichtsverlust war in Anbetracht des harten Lebens, das wir sowohl infolge
@@ -847,7 +847,7 @@ Zugrundelegung der neuen Gesichtspunkte, welche die moderne Wissenschaft an die
 Hand gibt, schlug ich die folgende Tagesration für die Schlittenexpedition vor,
 welche auch angenommen wurde:
 
-:::: { .fs-xs }
+:::: { .fs-xxs }
 | Nahrungsmittel                   |                | Nährwert in Gramm^[^2303]^ |                                              |                                                     |
 |---------------------------------|---------------:|---------------------------:|---------------------------------------------:|----------------------------------------------------:|
 | Art                              | Menge in Gramm | Stickstoffsubstanz Eiweiß  | Ternäre und wärmeerzeugende Substanzen Fette | Ternäre und wärmeerzeugende Substanzen Kohlehydrate |
@@ -895,7 +895,7 @@ Lebensweise durchaus angemessen. Wird sie in ihrer Gesamtheit regelmäßig
 verzehrt, so ersetzt sie vollständig alle organischen Verluste und stillt den
 Hunger.
 
-Ich würde jedoch zu einigen Abänderungen betreffs der Menge der nerveuerregenden
+Ich würde jedoch zu einigen Abänderungen betreffs der Menge der nervenerregenden
 Nahrungsinittel raten, nämlich den Tee auf 10 Gramm, den Kaffee auf 25, sowie
 dementsprechend den Zucker auf 50 Gramm zu vermehren; das Salz war im Überfluß
 vorhanden, da der größte Teil der Konserven schon bei seiner Zubereitung
@@ -999,11 +999,11 @@ waren in der Form von komprimierten Plätzchen (Tabletten und Soloide) dosiert,
 die in kleinen Fläschchen oder Glasröhren verschlossen waren, die Verbandstoffe
 in zusammengepreßten Packeten.
 
-Arzneien. Laudanum^[^2305]^, Opium, Tannin^[^2306]^, Salol^[^2307]^, Kalomel^[^2308]^, vegetabilische
+*Arzneien.* Laudanum^[^2305]^, Opium, Tannin^[^2306]^, Salol^[^2307]^, Kalomel^[^2308]^, vegetabilische
 Abführungsmittel, Koffein, Digitalis, Strichninkörner^[^2309]^, Chloroform, Tabletten für
 die Augen, Sublimattabletten.
 
-Verbandmaterial. Hydrophile Watte, Gazekompressen, Flanellbinden, Gazebinden,
+*Verbandmaterial.* Hydrophile Watte, Gazekompressen, Flanellbinden, Gazebinden,
 Stärkebinden, Esmarch-Tücher^[^2310]^, Leinwandstücke, zwei Paar geschwärzte Brillen,
 Suspensorien, Taffet^[^2317]^, eine Stange Bleipflaster^[^2311]^ zum Streichen, ein Quadratmeter
 Gummistoff, eine Tube Boroglycerin^[^2312]^, Gummibecher, Wachs und Streichhölzer, Seife,
@@ -1061,7 +1061,7 @@ anspruchsvoll und geduldiger daraus hervor.
 
 [^2308]: [*Kalomel*: vergleiche [Quecksilber(I)-chlorid](https://de.wikipedia.org/wiki/Quecksilber(I)-chlorid)]{.footnote}
 
-[^2309]: [*Strichninkörner*: vergleiche [Strychnin](http[^2310]s://de.wikipedia.org/wiki/Strychnin#Strychnin_als_Medikament)]{.footnote}
+[^2309]: [*Strichninkörner*: vergleiche [Strychnin](https://de.wikipedia.org/wiki/Strychnin#Strychnin_als_Medikament)]{.footnote}
 
 [^2310]: [*Esmarchtücher*: vergleiche [Dreiecktuch](https://de.wikipedia.org/wiki/Dreiecktuch)]{.footnote}
 

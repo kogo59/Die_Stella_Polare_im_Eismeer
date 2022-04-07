@@ -543,8 +543,8 @@ bleiben sie auch warm, warm wohlverstanden im Verhältnis zum
 der Knie befinden sich Eiskrusten nach Art der Pferdeknieschützer, und
 große und kleine Eiskrusten, die oft so dick sind, daß man sie mit dem
 Messer abschaben kann, haben wir fast überall, namentlich auf den
-Wangen, dem Rücken und überhaupt au allen Stellen, an denen sich
-Trauspiration gezeigt hat.
+Wangen, dem Rücken und überhaupt an allen Stellen, an denen sich
+Transpiration gezeigt hat.
 
 Hat man einige Zeit im Sacke verweilt, so beginnt das ganze Eis, welches an den
 Kleidern haften geblieben ist, zu schmelzen, und trotz des Mangels an Luft, der

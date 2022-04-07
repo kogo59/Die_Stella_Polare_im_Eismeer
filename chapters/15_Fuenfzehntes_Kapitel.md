@@ -86,6 +86,10 @@ durch die Kanäle längs des Schiffes ins Meer zu leiten. Es war eine sehr
 erhebliche Anzahl Kubikmeter Eis, die wir auf diese Weise beseitigen mußten.
 Würde es uns gelingen?
 
+:::: { .wrap-60 }
+![Lage der Stella Polare im Winter. Maßstab 1:20 000](Stella_Polare_563.jpg "RLage der Stella Polare im Winter. Maßstab 1:20 000"){#b563}
+::::
+
 Da im folgenden oft von Minen die Rede sein wird, dürfte es am Platze sein, die
 Beschreibung unseres Materiale zu geben. Wir waren mit 200 Kilogramm
 Schießbaumwolle in sechseckigen Tafeln von je 310 Gramm Gewicht versehen. Zehn
@@ -100,7 +104,7 @@ vollkommen dicht machte.
 ![Raubmöwe (Stercorarius parasiticus).](Stella_Polare_218.jpg "Raubmöwe (Stercorarius parasiticus)."){#b218}
 ::::
 
-Die Schießbaumwolltafeln waren teils ganz, teils nur au der Oberfläche mit
+Die Schießbaumwolltafeln waren teils ganz, teils nur an der Oberfläche mit
 Paraffin getränkt. Zur Entzündung waren wir mit einer Siemensmaschine versehen
 und besaßen außerdem noch eine gewöhnliche Batterie. Ferner hatten wir eine sehr
 kleine Menge Minen- und Gewehrpulver. Blechcylinder, die je vier Kilogramm
@@ -184,7 +188,7 @@ Als mir diese Meldung überbracht wurde, fiel es mir schwer auf die Seele, daß
 meine Zerstreutheit die daran tragen könne, daß es uns unmöglich würde, die Bai
 zu verlassen.
 
-Was sollten wir jetzt tmn?
+Was sollten wir jetzt tun?
 
 Wenn wir damit fortfahren wollten, den Kanal von außen bis zum Schiffe weiter zu
 führen, so hätten wir mit den wenigen Minen, die wir noch besaßen, bis auf
@@ -383,10 +387,10 @@ wir an die Auswechselung des Steuerruders, an dessen Stelle das Reserveruder
 eingesetzt wurde. Am 14. August Morgens wurde wieder ein Teil der auf der Insel
 lagernden Kohle an Bord gebracht. Der Kohlenvorrat, den wir auf dem Strande
 zurückließen, wird sich, wie ich glaube, nicht wieder auffinden lassen, da er in
-der Nähe des Randes des Küsteneises au einer Stelle nieder gelegt worden war, wo
+der Nähe des Randes des Küsteneises an einer Stelle nieder gelegt worden war, wo
 ihn die Fluten während des Sommers allmählich ins Meer spülen werden.
 Nachmittags rüsteten wir uns, das Schiff in die Nähe des Zeltes zu bringen, um
-die Lebensmittel und den Rest der Ladung au Bord zu nehmen und zur Abfahrt
+die Lebensmittel und den Rest der Ladung an Bord zu nehmen und zur Abfahrt
 bereit zu sein, falls der sich aus Westen erhebende Wind drohte, uns die
 Rückkehr abzuschneiden. Als wir aber das Schiff in Bewegung setzen wollten,
 stellte es sich heraus, daß es auf dem Grunde festsaß; die Ebbe und die in das
@@ -397,7 +401,7 @@ daß das Schiff die Eisschollen im Kanale beiseite schob und sich wenige hundert
 Meter von der Hütte entfernt vor Anker legte. Obgleich es von der Eispressung
 beschädigt worden war, war es doch noch sehr gut im Stande, und als wir es
 wieder aufgerichtet, frei und zur Abfahrt bereit   vor uns sahen, glaubten wir
-fast schon in Italien zu sein, und dachten gar nicht mehr au die
+fast schon in Italien zu sein, und dachten gar nicht mehr an die
 Schwierigkeiten, die wir auf der Fahrt überwinden mußten, ehe wir in die
 Barentsee gelangten. An demselben Abend verließ die Mannschaft endgültig das
 Zelt und schaffte die Betten an Bord in den neuen Raum, den der Zimmermann
@@ -431,7 +435,7 @@ Am 16. August um 1 Uhr früh setzten wir uns, vollständig segelfertig, langsam 
 Bewegung und entfernten uns von der Insel. Als wir um das Eis der Bai, das uns
 so lange Zeit gefangen gehalten hatte, herumfuhren, brachten wir ein dreimaliges
 Hurra aus. Aber unser Ruf erweckte ein trauriges Echo in unserem Herzen, und in
-diesem Augenblick war die Erinnerung au die Gefährten, die nicht mit uns
+diesem Augenblick war die Erinnerung an die Gefährten, die nicht mit uns
 zurückkehrten, lebhafter als je. Die Hoffnung, sie wiederzusehen, war in uns
 fast erstorben. Unsere Blicke wandten sich nach Norden, über die freie
 Wasserfläche hinweg den fernen Eisfeldern zu, die nur allzu gewiß die Gräber des
