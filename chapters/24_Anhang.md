@@ -79,7 +79,7 @@ bestimmt worden.
 Karte die geographischen Koordinaten benutzt worden, die er von seiner Hütte
 angibt, unter Zurechnung von 27´ 30“ (dem Unterschiede der beiden Längen von Kap
 Flora) zur Länge. Dies deshalb, weil Nansen die Korrektion seiner Chronometer
-auf Kap Flora unter Benntzung der von Jackson angegebenen Länge berechnete, bei
+auf Kap Flora unter Benutzung der von Jackson angegebenen Länge berechnete, bei
 der wir einen Fehler von genau 27´ 30“ feststellten.
 
 Mittels dieser Koordinaten ist die Lage von Nansens Hütte und demgemäß auch die
@@ -112,7 +112,7 @@ weil ihr Nichtvorhandensein festgestellt wurde.
 ****
 ::::
 
-:::: { .align-center  .fs-xl }
+:::: { .break-before .align-center  .fs-xl }
 Karten.
 ::::
 
