@@ -20,3 +20,6 @@ before January 1, 1926.
 
 # Sources
 Die Stella Polare im Eismeer. [archive.org](https://archive.org/details/bub_gb_KkQNAQAAIAAJ)
+
+# ePUB
+Die Stella Polare im Eismeer. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=346114)

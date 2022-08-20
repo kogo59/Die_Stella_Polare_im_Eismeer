@@ -22,10 +22,10 @@ PREFACE_EPUB = chapters/preface/preface_epub.md
 PREFACE_HTML_PDF = chapters/preface/preface_html_pdf.md
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG)
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
-CALIBRE = "C:/Program Files/Calibre2/"
+#CALIBRE = "C:/Program Files/Calibre2/"
 #CALIBRE=""
-#PANDOC = "pandoc"
-PANDOC = "C:/Program Files/Pandoc/pandoc"
+PANDOC = "pandoc"
+#PANDOC = "C:/Program Files/Pandoc/pandoc"
 
 
 all: book

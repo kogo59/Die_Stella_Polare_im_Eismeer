@@ -164,31 +164,115 @@ November 1902
 * [Schneehütte auf Kap Fligely](ch013.xhtml#b165)
 * [Jagdbeute.](ch013.xhtml#b168) (Separatbild)
 * [Zerlegung eines Bären.](ch013.xhtml#b169)
-* Die Teilnehmer der ersten Gruppe
-* Die Teplitzbai von Osten
-* Hans, der Norweger
-* Nach Kap Fligely
-* Schiff und Hütte von Westen
-* Felsen des Säulenkaps
-* Felsen des Säulenkaps
-* Im weichen Schnee
-* Cagni angekommen!
-* Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900  (Separatbild)
-* Kajak und Kochapparat der dritten Gruppe
-* Sacripante und Teresa
-* Piccin
-* Orlando
-* Pantalone
-* Die am Leben gebliebenen Hunde in Italien
-* Die Hütte im Sommer
+* [Die Teilnehmer der ersten Gruppe.](ch014.xhtml#b173)
+* [Die Teplitzbai von Osten.](ch014.xhtml#b176)
+* [Hans, der Norweger.](ch014.xhtml#b178)
+* [Nach Kap Fligely.](ch014.xhtml#b182)
+* [Schiff und Hütte von Westen.](ch014.xhtml#b187)
+* [Felsen des Säulenkaps.](ch014.xhtml#b188)
+* [Felsen des Säulenkaps.](ch014.xhtml#b189)
+* [Im weichen Schnee.](ch014.xhtml#b190)
+* [Cagni angekommen!](ch014.xhtml#b191)
+* [Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900.](ch014.xhtml#b192)  (Separatbild)
+* [Kajak und Kochapparat der dritten Gruppe.](ch015.xhtml#b195)
+* [Sacripante und Teresa.](ch015.xhtml#b196)
+* [Piccini.](ch015.xhtml#b197)
+* [Orlando.](ch015.xhtml#b198)
+* [Pantalone.](ch015.xhtml#b202)
+* [Die am Leben gebliebenen Hunde in Italien.](ch015.xhtml#b203)
+* [Die Hütte im Sommer.](ch016.xhtml#b208)
+* [Siesta.](ch016.xhtml#b209)
+* [Kommandant Cagini bei der Arbeit.](ch016.xhtml#b210)
+* [Das magnetische Häuschen im Wasser.](ch016.xhtml#b211a)
+* [Das magnetische Häuschen an Land geschafft.](ch016.xhtml#b211b)
+* [Rückkehr vom Alkenkap.](ch016.xhtml#b212)
+* [Die Teplitzbai am 15. Juli 1900.](ch016.xhtml#b213) (Separatbild)
+* [Die linke Schiffseite.](ch017.xhtml#b215)
+* [Kanal zur Leitung des Schmelzwassers gegen das Schiff.](ch017.xhtml#b216)
+* [Der Abflußkanal am Heck.](ch017.xhtml#b217)
+* [Raubmöwe (Stercorarius parasiticus)](ch017.xhtml#b218)
+* [Anbohrung des Eises zum Legen der Sprengminen.](ch017.xhtml#b220)
+* [Offenes Wasser längs des Schiffes.](ch017.xhtml#b222)
+* [Die Befreiung des Schiffes durch Sprengminen.](ch017.xhtml#b224) (Separatbild)
+* [Loslösung eines Eisstückes von der Schiffsseite.](ch017.xhtml#b225)
+* [Die Stella Polare wieder aufgerichtet.](ch017.xhtml#b226)
+* [Schaffung eines Kanals zum Flottmachen des Schiffes.](ch017.xhtml#b227)
+* [Zur Abfahrt bereit.](ch017.xhtml#b230)
+* [Letzter Blick auf die Teplitzbai.](ch017.xhtml#b231)
+* [Letzter Blick auf das Säulenkap.](ch018.xhtml#b234a)
+* [Das Alkenkap und Kap Brorok.](ch018.xhtml#b234b)
+* [Eis im Britischen Kanal.](ch018.xhtml#b235)
+* [Ein weißer Delphin.](ch018.xhtml#b237)
+* [Dicht an einem Eisberg.](ch018.xhtml#b239)
+* [Ein gefährlicher Nachbar.](ch018.xhtml#b241)
+* [Treibeis im Britischen Kanal.](ch018.xhtml#b245)
+* [Die letzten Hunde der Stella Polare.](ch018.xhtml#b247)
+* [Auf dem Wege in die Heimat.](ch018.xhtml#b248)
+* [Begegnung der Stella Polare mit der Hertha bei Hammerfest.](ch018.xhtml#b249)  (Separatbild)
+* [Ankunft in Tromsö.](ch018.xhtml#b250)
+* [Kapitänleutnant Umberto Cagni.](ch018.xhtml#b251) (Separatbild)
+* [Beladung der Schlitten.](ch019.xhtml#b266)
+* [Die Ausreißer.](ch019.xhtml#b272)
+* [Am Vorabend des Abmarsches zum Pol.](ch019.xhtml#b273) (Separatbild)
+* [Die Wacht.](ch019.xhtml#b276)
+* [Auf dem Weitermarsch.](ch019.xhtml#b279)
+* [Nach Norden.](ch019.xhtml#b284)
+* [Die todmüden Hunde.](ch019.xhtml#b289)
+* [Bespannung der Schlitten.](ch020.xhtml#b299)
+* [Vor neuem Eis.](ch020.xhtml#b303)
+* [Auf zum Pol!](ch020.xhtml#b304) (Separatbild)
+* [Bahnung eines Weges.](ch020.xhtml#b305)
+* [Ein Weg zum Verzweifeln.](ch020.xhtml#b313) (Separatbild)
+* [Schlechter Weg.](ch020.xhtml#b323)
+* [Guter Weg.](ch020.xhtml#b331)
+* [Cagnis Vorbereitungen zum Nachtlager.](ch021.xhtml#b336) (Separatbild)
+* [Canepa, der Schlächter.](ch021.xhtml#b339)
+* [Ausgraben der Schlitten.](ch021.xhtml#b342)
+* [Der gefährdete Schlitten.](ch021.xhtml#b343)
+* [Lagerplatz.](ch021.xhtml#b349)
+* [Errichtung des Zeltes.](ch021.xhtml#b357)
+* [Schlechter Weg bei Neuschnee.](ch021.xhtml#b359)
+* [Eiswüste.](ch021.xhtml#b369)
+* [Die Flagge vor dem Zelte.](ch021.xhtml#b379)
+* [Der nördlichste Lagerplatz.](ch021.xhtml#b380)
+* [Der erste Schritt der Heimat entgegen.](ch021.xhtml#b382)
+* [Prächtige Bahn.](ch022.xhtml#b391)
+* [Wahl des Schlachtopfers.](ch022.xhtml#b399)
+* [Das Packeis im Mai.](ch022.xhtml#b400) (Separatbild)
+* [Wasser auf allen Seiten.](ch022.xhtml#b404)
+* [Rings völlige Ebene.](ch022.xhtml#b407)
+* [Ein aufreibender Weg.](ch022.xhtml#b413)
+* [Prüfen der Waffen.](ch022.xhtml#b422)
+* [Aufschlagen des Zeltes.](ch023.xhtml#b431)
+* [Weite, sehr schöne Ebene.](ch023.xhtml#b439)
+* [Ein gefährliches Fahrzeug.](ch023.xhtml#b444)  (Separatbild)
+* [Sehr schöne Ebene.](ch023.xhtml#b449)
+* [Vor Anstrengung außer Atem.](ch023.xhtml#b455)
+* [Kein Weg nach Süden.](ch023.xhtml#b461)
+* [Im Schneesumpf.](ch023.xhtml#b469)
+* [Wieder eine schöne Ebene.](ch023.xhtml#b479)
+* [Ein hartes Stück Arbeit.](ch023.xhtml#b485)
+* [Gatto, nach Italien zurückgebracht.](ch024.xhtml#b501)
+* [Losgerissenes Packeis, die Rückkehr Cavallis erschwerend.](ch024.xhtml#b512) (Separatbild)
+* [Cardenti auf der Fahrt zum Gletscher.](ch024.xhtml#b519)
+* [Alexandraland.](ch026.xhtml#b560)
 
 :::: { .align-center  .fs-l }
 Panoramen.
 ::::
 
 * [Die Teplitzbai auf Kronprinz-Rudolf-Land.](ch008.xhtml#b096a)
-* Die Northbrookinsel vom De-Bruyne-Sund aus
+* [Die Northbrookinsel vom De-Bruyne-Sund aus.](ch018.xhtml#b240)
 
+
+:::: { .align-center  .fs-l }
+Karten.
+::::
+
+* [Kaiser Franz-Joseph-Archipel. Maßstab 1:1 000 000.](ch026.xhtml#b561)
+* [Nebenkarten: Teplitzbai. Maßstab 1:100 000.](ch026.xhtml#b562)
+* [Lage der Stella Polare im Winter. Maßstab 1:20 000](ch017.xhtml#b563)
+* [Schlittenexpedition des Kommandanten Cagni 11. März bis 23. Juni 1900. Maßstab 1:6 500 000.](ch026.xhtml#b564)
 
 
 :::

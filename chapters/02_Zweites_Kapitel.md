@@ -435,6 +435,10 @@ verlassen.
 ![In Tromsö.](Stella_Polare_028a.jpg "In Tromsö."){#b028a}
 ::::
 
+:::: { .wrap-50 .float-left }
+![Begegnung mit einem Dampfer im Weißen Meere.](Stella_Polare_028b.jpg "Begegnung mit einem Dampfer im Weißen Meere."){#b028b}
+::::
+
 Am Abend des 11. Juni nahmen wir Abschied von denen, die uns besonders
 unterstützt hatten. Zuerst vor allen von Professor Nansen, der sich seit dem
 Winter vollständig zu meiner Verfügung gestellt hatte und mir jede Auskunft gab,
@@ -656,7 +660,7 @@ gewaltige Überlegenheit in der Widerstandsfähigkeit und Kraft des Hundes, der
 mehr dem von Wrangel beschriebenen Typs glich.
 
 Soviele Tiere auf dem Deck unterzubringen, war keine leichte Aufgabe, da nur
-noch wenig Platz zur Verfügung stand. Au den Schiffswänden wurden auf beiden
+noch wenig Platz zur Verfügung stand. An den Schiffswänden wurden auf beiden
 Seiten zwei Reihen von Käfigen übereinander angebracht. Das erste Stockwerk
 ruhte auf dem Deck, das andere befand sich in ein Meter Höhe. Die Käfige waren
 voneinander durch Bretterwände getrennt. Hier hinein wurden die Hunde zu je vier
