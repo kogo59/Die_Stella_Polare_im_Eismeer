@@ -105,7 +105,11 @@ Skorbut für uns keine ernste Gefahr mehr. Er trat in die Reihe der gewöhnliche
 Krankheiten zurück und gelangte vielleicht infolge seiner infektiösen Natur
 schwerer zur Entwicklung. Betrachtete man daher die Frage unter allen
 zugehörigen Gesichtspunkten, so war das von uns gehegte Vertrauen auf unsere
+<<<<<<< HEAD
 organische Widerstandsfähigkeit in keiner Weise erschüttert, sondern eher
+=======
+organische Widerstandsfähkeit in keiner Weise erschüttert, sondern eher
+>>>>>>> 0ffeeab3ce17d91d299da02a3d38d7b261444880
 gekräftigt worden, weil jede Befürchtung einer ernsten Kritik nicht Stich hielt.
 
 Bei der Erreichung unserer Absicht, uns möglichst gesund und stark an Körper und
