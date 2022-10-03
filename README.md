@@ -2,6 +2,8 @@
 
 This is a git repository of the source files for the book "Die Stella Polare im Eismeer."
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/193683516-e5249e88-43fc-4cd9-85ec-a3e9e4011fd2.jpg">
+
 Author:
 
 * [Prince Luigi Amedeo, Duke of the Abruzzi](https://en.wikipedia.org/wiki/Prince_Luigi_Amedeo,_Duke_of_the_Abruzzi) (1873—1933)
