@@ -10,6 +10,10 @@ Author:
 
 
 # Licenses
+The author died in 1933 so this work is in the public domain in its country of
+origin and other countries and areas where the copyright term is the author's life
+plus 80 years or fewer.
+
 This work is in the public domain in the United States because it was
 published (or registered with the U.S. Copyright Office)
 before January 1, 1926.
@@ -22,6 +26,3 @@ before January 1, 1926.
 
 # Sources
 Die Stella Polare im Eismeer. [archive.org](https://archive.org/details/bub_gb_KkQNAQAAIAAJ)
-
-# ePUB
-Die Stella Polare im Eismeer. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=346114)
