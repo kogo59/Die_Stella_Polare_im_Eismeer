@@ -990,10 +990,5 @@ warmen Hütte zusammen, befriedigt über das glückliche Gelingen unserer Sendun
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2200]: [*Hodie tibi, cras mihi!*: Heute kommt der Tod!]{.footnote}

@@ -538,8 +538,3 @@ der Expedition entgegenzunehmen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

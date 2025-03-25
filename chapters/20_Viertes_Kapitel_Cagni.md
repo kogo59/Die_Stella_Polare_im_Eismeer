@@ -1270,11 +1270,6 @@ Möge Gott uns gnädig sein!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2000]: [*Purgiermittel*: vergleiche [Abführmittel](https://de.wikipedia.org/wiki/Abf%C3%BChrmittel)]{.footnote}
 

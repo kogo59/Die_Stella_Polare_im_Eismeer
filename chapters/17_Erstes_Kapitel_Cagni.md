@@ -1197,11 +1197,6 @@ aufgetaut, als wir schon von einem möglichst baldigen Wiederaufbruch sprechen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1700]: [Die einzelnen Schlafsäcke waren verschieden schwer; 22 Kilogramm war das Durchschnittsgewicht.]{.footnote}
 

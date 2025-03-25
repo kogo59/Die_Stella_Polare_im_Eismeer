@@ -408,11 +408,6 @@ wir abermals in dem Eise nördlich von der Bruceinsel vor Anker, etwas mehr nach
 Südosten zu als am Tage zuvor.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Tegetthoff*: vergleiche [Admiral Tegetthoff (Schiff)](https://de.wikipedia.org/wiki/Admiral_Tegetthoff_(Schiff))]{.footnote}
 

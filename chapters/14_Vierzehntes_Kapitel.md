@@ -185,8 +185,3 @@ Table: Temperaturen
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -424,10 +424,5 @@ herunter. Das Osterfest wird sehr traurig verbracht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Aquinoktialflut*: vergleiche [Äquinoktium](https://de.wikipedia.org/wiki/%C3%84quinoktium)]{.footnote}

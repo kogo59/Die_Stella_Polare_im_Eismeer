@@ -383,11 +383,6 @@ allzu großem Vertrauen auf ihre Kräfte hinwagen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Grantland*: vergleiche [Grant Land](https://en.wikipedia.org/wiki/Grant_Land)]{.footnote}
 

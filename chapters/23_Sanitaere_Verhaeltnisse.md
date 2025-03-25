@@ -1041,11 +1041,6 @@ anspruchsvoll und geduldiger daraus hervor.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [*Bizzozero*: vergleiche [Giulio Bizzozero](https://de.wikipedia.org/wiki/Giulio_Bizzozero)]{.footnote}
 

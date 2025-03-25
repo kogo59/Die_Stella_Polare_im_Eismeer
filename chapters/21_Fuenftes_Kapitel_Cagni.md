@@ -1973,8 +1973,3 @@ Sie, Querini ist nicht zurückgekehrt!“ Ich sehe Cavalli verständnislos an: e
 senkt sein Haupt&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.&nbsp;.  
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

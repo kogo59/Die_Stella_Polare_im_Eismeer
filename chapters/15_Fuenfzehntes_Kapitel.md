@@ -462,8 +462,3 @@ längere Zeit am Leben bleiben und unseren Gefährten von Nutzen sein.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

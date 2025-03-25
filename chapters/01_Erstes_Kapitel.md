@@ -350,12 +350,6 @@ vorzunehmen suchen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0100]: [*Henry Hudson*: vergleiche [Henry Hudson](https://de.wikipedia.org/wiki/Henry_Hudson)]{.footnote}
 
 [^0101]: [*C. J. Phipps*: vergleiche [Constantine Phipps, 2. Baron Mulgrave](https://de.wikipedia.org/wiki/Constantine_Phipps,_2._Baron_Mulgrave)]{.footnote}

@@ -364,11 +364,6 @@ umschließenden Eise zu befreien.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [Greely: Tee, Schokolade. — Nares: Tee ½ Unze; Schokolade 1 Unze. — Unsere Expedition: Tee 0,06: Kaffee 0,019]{.footnote}
 

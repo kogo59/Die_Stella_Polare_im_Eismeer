@@ -1409,12 +1409,6 @@ Geführten! Gott schütze und geleite euch sicher aus Ziel!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1800]: [85 kg weniger.]{.footnote}
 
 [^1801]: [85 kg mehr.]{.footnote}

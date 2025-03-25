@@ -1464,8 +1464,3 @@ Vaterland tun.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

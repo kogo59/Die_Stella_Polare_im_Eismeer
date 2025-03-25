@@ -727,11 +727,6 @@ Kreuzer mit dem Signal „Glückliche Fahrt“ begrüßt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Colin Archer*: vergleiche [Colin Archer](https://en.wikipedia.org/wiki/Colin_Archer)]{.footnote}
 

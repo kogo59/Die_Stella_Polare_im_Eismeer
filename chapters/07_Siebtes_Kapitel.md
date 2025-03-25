@@ -309,10 +309,5 @@ Die Polarnacht war hereingebrochen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [*Fieldscher Kessel*: vergleiche [Field-tube boiler](https://en.wikipedia.org/wiki/Field-tube_boiler)]{.footnote}

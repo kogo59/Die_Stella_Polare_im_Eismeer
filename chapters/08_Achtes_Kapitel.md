@@ -351,8 +351,3 @@ zum ersten Schlummer des neuen Jahres.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

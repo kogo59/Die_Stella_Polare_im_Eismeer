@@ -382,10 +382,5 @@ September auch verließen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Greenheart*: vergleiche [Grünherzholz](https://de.wikipedia.org/wiki/Gr%C3%BCnherzholz)]{.footnote}

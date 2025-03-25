@@ -386,10 +386,5 @@ allerletzte Lebewohl. Bald darauf verschwand die Expedition.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Spratt*: vergleiche [Spratt's](https://en.wikipedia.org/wiki/Spratt%27s)]{.footnote}

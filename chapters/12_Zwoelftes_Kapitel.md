@@ -582,13 +582,8 @@ von Cagni errungene Erfolg eine Stunde wahren Glückes.
 ![Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900.](Stella_Polare_192.jpg "Rückkehr von Cagni, Petigax, Fenoillet und Canepa am 23. Juni 1900."){#b192}
 ::::
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
+## **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Hvidtenland*: vergleiche [Belaya Zemlya](https://en.wikipedia.org/wiki/Belaya_Zemlya)]{.footnote}

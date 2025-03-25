@@ -487,11 +487,6 @@ sich zur Zeit der Entdeckung durch den österreichischen Forscher befand.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Kronprinz-Rudolf-Land*: vergleiche [Rudolf-Insel](https://de.wikipedia.org/wiki/Rudolf-Insel)]{.footnote}
 

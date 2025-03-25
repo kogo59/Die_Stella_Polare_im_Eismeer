@@ -459,11 +459,6 @@ bis Kap Fligely^[^0403]^ durchfahren worden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Hookerinsel*: vergleiche [Hooker-Insel](https://de.wikipedia.org/wiki/Hooker-Insel)]{.footnote}
 
